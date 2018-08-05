@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DRFP_Engine" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="DRFP_Engine\;DRFP_Engine\Data_Formatting\;DRFP_Engine\File_Analyzer\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DRFP_Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DRFP_Engine" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Librerias/DRFP_Engine.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/" />
+		</Unit>
+		<Unit filename="Librerias/DRFP_Engine.h">
+			<Option virtualFolder="DRFP_Engine/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/Arithmetic_Unit.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/Arithmetic_Unit.h">
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/DRFP.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/DRFP.h">
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/Groups.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/Data_Formatting/Groups.h">
+			<Option virtualFolder="DRFP_Engine/Data_Formatting/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Control_Unit.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Control_Unit.h">
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Copycass_Check.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Copycass_Check.h">
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/File_Write.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/File_Write.h">
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Lectura_Bloques.c">
+			<Option compilerVar="CC" />
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/File_Analyzer/Lectura_Bloques.h">
+			<Option virtualFolder="DRFP_Engine/File_Analyzer/" />
+		</Unit>
+		<Unit filename="Librerias/Variables_Globales.h">
+			<Option virtualFolder="DRFP_Engine/" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

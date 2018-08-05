@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1531409844 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\arithmetic_unit.c
+	"Arithmetic_Unit.h"
+
+1531409844 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\arithmetic_unit.h
+	"stdlib.h"
+	"stdio.h"
+	"stdint.h"
+	"math.h"
+
+1531486516 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\drfp.c
+	"DRFP.h"
+
+1531409844 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\drfp.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+	"Arithmetic_Unit.h"
+
+1522764308 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\groups.c
+	"Groups.h"
+
+1522760147 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data formatting\groups.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+
+1521206641 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file analyzer\file_write.c
+	"File_Write.h"
+
+1521037912 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file analyzer\file_write.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+
+1531409844 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\arithmetic_unit.c
+	"Arithmetic_Unit.h"
+
+1531409844 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\arithmetic_unit.h
+	"stdlib.h"
+	"stdio.h"
+	"stdint.h"
+	"math.h"
+
+1532530667 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\drfp.c
+	"DRFP.h"
+	"Arithmetic_Unit.h"
+	"../File_Analyzer/Control_Unit.h"
+
+1532098140 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\drfp.h
+	"../Variables_Globales.h"
+
+1522764308 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\groups.c
+	"Groups.h"
+
+1522760147 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\data_formatting\groups.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+
+1521206641 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\file_write.c
+	"File_Write.h"
+
+1521037912 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\file_write.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+
+1532529813 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\control_unit.c
+	"Control_Unit.h"
+	"Lectura_Bloques.h"
+
+1532528613 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\control_unit.h
+	"../Variables_Globales.h"
+
+1532657314 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\variables_globales.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	"stdint.h"
+
+1532703820 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\lectura_bloques.h
+	"../Variables_Globales.h"
+
+1532703820 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\lectura_bloques.c
+	"Lectura_Bloques.h"
+	"../Data_Formatting/Groups.h"
+	"Control_Unit.h"
+
+1533129471 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\copycass_check.c
+	"Copycass_Check.h"
+	"Lectura_Bloques.h"
+	"Control_Unit.h"
+	"../Data_Formatting/Groups.h"
+
+1532656884 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\file_analyzer\copycass_check.h
+	"../Variables_Globales.h"
+
+1533129144 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\main.c
+	"Librerias/DRFP_Engine.h"
+
+1532656884 source:f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\drfp_engine.c
+	"DRFP_Engine.h"
+	"Data_Formatting/DRFP.h"
+	"File_Analyzer/Copycass_Check.h"
+	"File_Analyzer/Control_Unit.h"
+
+1532656884 f:\trabajos\piddef\piddef 2018\[4] software\[2] drfp engine\drfp v2.0\drfp_engine\librerias\drfp_engine.h
+	"Variables_Globales.h"
+
